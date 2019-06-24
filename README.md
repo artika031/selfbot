@@ -1,0 +1,2 @@
+# selfbot
+Python2
